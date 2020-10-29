@@ -23,4 +23,11 @@ After each epoch, we printed the loss and accuracy values, and as it can be seen
 Average val acc: 0.32  
 Average val loss: 2.87  
 
+![Image](https://github.com/NechitaRamonaAlexandra/ImageRecognitionPython/blob/main/res.png)
+
 **Graphs**
+
+![Image](https://github.com/NechitaRamonaAlexandra/ImageRecognitionPython/blob/main/Plot.png)
+
+
+![Image](https://github.com/NechitaRamonaAlexandra/ImageRecognitionPython/blob/main/Figure_12.png)
